@@ -18,7 +18,7 @@ copy to project
 ### Use as component
 ``` javascript
 // import Select22
-import Select22 from 'select22.vue';
+import Select22 from 'select2.vue';
 
 <template>
   <div>
